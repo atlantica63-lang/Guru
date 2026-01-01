@@ -41,4 +41,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "77d7d1a66b5b3039",
+        "key": "Btcet07",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
