@@ -11,4 +11,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2a9af9569ab40060",
+        "key": "Angga02",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
