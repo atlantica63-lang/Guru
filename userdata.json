@@ -29,4 +29,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "9b54a8b7b9cd71f1",
+        "key": "jrndh05",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
