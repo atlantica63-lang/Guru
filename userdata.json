@@ -1,13 +1,11 @@
 [
     {
-        #MyDevice
         "device_id": "8955e82234d53d61",
         "key": "key12345",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
     {
-        #Bastari
         "device_id": "62b1a454ade7139f",
         "key": "Bastari01",
         "expirydate": "31-12-2026",
