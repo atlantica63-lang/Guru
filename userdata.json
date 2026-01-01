@@ -77,5 +77,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "92fa98cf1ca017c0",
+        "key": "Bdhts13",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
