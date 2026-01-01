@@ -71,5 +71,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0dd69928da75e0db",
+        "key": "Brjfr12",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
