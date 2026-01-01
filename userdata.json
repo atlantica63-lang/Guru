@@ -35,4 +35,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ea813438dcd052f4",
+        "key": "krnhs06",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
