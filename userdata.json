@@ -6,7 +6,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "",
+        #Bastari
+        "device_id": "62b1a454ade7139f",
         "key": "",
         "expirydate": "31-12-2026",
         "Allowoffline": true
