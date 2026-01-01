@@ -17,4 +17,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2043b484758d9b3e",
+        "key": "nrhda03",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
