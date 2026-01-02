@@ -83,5 +83,23 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ffe8c3e7646ae4f0",
+        "key": "Pkjrb01",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dbd0f35563f0bcbc",
+        "key": "Pmnbr02",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d904e522fec8afe5",
+        "key": "Prhfk03",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
