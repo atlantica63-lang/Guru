@@ -44,43 +44,43 @@
     {
         "device_id": "77d7d1a66b5b3039",
         "key": "Btcet07",
-        "expirydate": "31-12-2026",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "ee0c6b7f5310e60d",
         "key": "Brshy08",
-        "expirydate": "31-12-2026",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "4e3e055e8a156af8",
         "key": "Bkejd09",
-        "expirydate": "31-12-2026",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "69e9285ca6da707e",
         "key": "Bkejh10",
-        "expirydate": "31-12-2026",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "31b616cd86c6fc8f",
         "key": "Bpeud11",
-        "expirydate": "31-12-2026",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "0dd69928da75e0db",
         "key": "Brjfr12",
-        "expirydate": "31-12-2026",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "92fa98cf1ca017c0",
         "key": "Bdhts13",
-        "expirydate": "31-12-2026",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
@@ -111,6 +111,12 @@
         "device_id": "06121575db010781",
         "key": "kndkj14",
         "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "20437c3ed7075302",
+        "key": "Bdoej15",
+        "expirydate": "08-01-2026",
         "Allowoffline": true
     },
 ]
