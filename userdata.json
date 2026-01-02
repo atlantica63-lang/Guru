@@ -101,5 +101,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "cb097497c34e9786",
+        "key": "Pjebd04",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
