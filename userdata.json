@@ -119,5 +119,11 @@
         "expirydate": "08-01-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2f7b6cb8bae935c5",
+        "key": "Brlpo16",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
