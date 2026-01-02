@@ -107,5 +107,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "06121575db010781",
+        "key": "kndkj14",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
