@@ -179,5 +179,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "9c68791f60105918",
+        "key": "Bbnlp26",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
