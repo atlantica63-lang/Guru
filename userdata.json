@@ -185,5 +185,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f2e521c602a0812a",
+        "key": "Hkour27",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
