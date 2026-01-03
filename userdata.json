@@ -149,6 +149,12 @@
         "expirydate": "03-02-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ae347d7f38b1af50",
+        "key": "Btlej21",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]
 
