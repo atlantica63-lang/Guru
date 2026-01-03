@@ -197,5 +197,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "27ff2600a460a10a",
+        "key": "Vhysh29",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
