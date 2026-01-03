@@ -208,6 +208,12 @@
         "key": "Vkted30",
         "expirydate": "31-12-2026",
         "Allowoffline": true
+    },    
+    {
+        "device_id": "d1a7f3f3212f2a5d",
+        "key": "Vkend31",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
     },
 ]
 
