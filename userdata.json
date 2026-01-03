@@ -203,5 +203,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "64dd7e395d1ad83e",
+        "key": "Vkted30",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
