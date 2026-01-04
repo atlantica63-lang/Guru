@@ -299,5 +299,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "12dd0412419fea4d",
+        "key": "Hrwtp46",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
