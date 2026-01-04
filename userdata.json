@@ -347,5 +347,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "dce09a13f27c899f",
+        "key": "Hkfeg54",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
