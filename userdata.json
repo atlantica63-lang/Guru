@@ -353,5 +353,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b720a6166b8e6d80",
+        "key": "Bgtrs55",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
