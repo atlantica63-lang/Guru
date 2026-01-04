@@ -341,5 +341,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1a557ee4010dae80",
+        "key": "Bdkeh53",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
