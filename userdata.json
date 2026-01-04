@@ -263,5 +263,17 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0ed9180b627f37a1",
+        "key": "Bnebs40",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": " 4ce206d52a526346",
+        "key": "Hpwus41",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
