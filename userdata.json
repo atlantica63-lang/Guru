@@ -317,5 +317,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d6bab01caf27570b",
+        "key": "Bkhpi49",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
