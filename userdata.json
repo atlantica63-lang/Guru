@@ -281,5 +281,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ea1ef53581a1d901",
+        "key": "Bljpe43",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
