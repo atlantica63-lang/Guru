@@ -275,5 +275,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "cce2de358273b611",
+        "key": "Hybgu42",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
