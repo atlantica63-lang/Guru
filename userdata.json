@@ -329,5 +329,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ecd03645e6b07e06",
+        "key": "Bpeij51",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
