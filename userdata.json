@@ -287,5 +287,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "cccd0d6d83c9436b",
+        "key": "Hndbe44",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
