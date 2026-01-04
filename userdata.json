@@ -293,5 +293,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d22ffbd7c182e02a",
+        "key": "Bmnbv45",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
