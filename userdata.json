@@ -257,5 +257,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "741b7d36fb812791",
+        "key": "Hlend39",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
