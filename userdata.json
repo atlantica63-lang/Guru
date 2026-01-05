@@ -599,6 +599,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a9ca082375b70856",
+        "key": "Npwer93",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
