@@ -389,5 +389,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "12340bfc750edb97",
+        "key": "Nkrje61",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
