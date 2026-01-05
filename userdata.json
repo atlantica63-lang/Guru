@@ -455,5 +455,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+        {
+        "device_id": "e172a809f575ec4f",
+        "key": "Bwrtj70",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
