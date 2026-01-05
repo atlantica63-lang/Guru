@@ -521,5 +521,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "8e3f418c4060be19",
+        "key": "Nklep80",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
