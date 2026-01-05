@@ -737,6 +737,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b3892777af61392c",
+        "key": "Hpknc116",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
