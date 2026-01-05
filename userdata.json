@@ -725,6 +725,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1a5d136c263bc32c",
+        "key": "Bpfoe114",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
