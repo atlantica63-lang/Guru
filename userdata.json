@@ -359,5 +359,23 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "6d93616a6ea639bd",
+        "key": "Bgpei56",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1bc0c2248fb76c5b",
+        "key": "Hrosn57",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dcf91326ed66cab5",
+        "key": "Hpeud58",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
