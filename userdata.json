@@ -437,5 +437,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "49eb2c90ff61e736",
+        "key": "Brpem65",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
