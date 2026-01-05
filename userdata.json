@@ -414,8 +414,14 @@
         "Allowoffline": true
     },
     {
-        "device_id": "49eb2c90ff61e736",
-        "key": "Brpem65",
+        "device_id": "8545b90227b221a1",
+        "key": "Npejs65",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a072ce85c33fe8b8",
+        "key": "Bndha32",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
