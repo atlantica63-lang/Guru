@@ -677,6 +677,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "67b6dff50de21303",
+        "key": "Blkwe106",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
