@@ -695,6 +695,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d6d5c6c93cc68651",
+        "key": "Boueb109",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
