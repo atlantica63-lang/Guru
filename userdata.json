@@ -659,6 +659,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2d742dc904951c27",
+        "key": "Hbgtr103",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "75f9b73ac56cff49",
+        "key": "Hcbvs104",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
