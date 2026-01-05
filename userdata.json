@@ -503,5 +503,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1fb9d5617a223384",
+        "key": "Blweo78",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
