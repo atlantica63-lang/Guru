@@ -539,6 +539,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0009d694bec2dc43",
+        "key": "Hzmla83",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
