@@ -647,6 +647,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a95b685458b89388",
+        "key": "Htueo101",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
