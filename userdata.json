@@ -479,5 +479,17 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "889913c58ed11736",
+        "key": "Bcfek74",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c7964196751843df",
+        "key": "Bthre75",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
