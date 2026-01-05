@@ -683,6 +683,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "774c2c3075e624c5",
+        "key": "Hmend107",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
