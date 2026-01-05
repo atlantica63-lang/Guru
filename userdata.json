@@ -491,5 +491,17 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "47fe268c094723d7",
+        "key": "Hlkkp76",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "49a47f6f9425f3dd",
+        "key": "Htrui77",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
