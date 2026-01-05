@@ -509,5 +509,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "bed41186a6e11b3b",
+        "key": "Bmhtx79",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
