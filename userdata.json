@@ -545,6 +545,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0533e13a3cd9e278",
+        "key": "Elnrb84",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
