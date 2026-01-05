@@ -533,5 +533,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5432f86ac67d9e27",
+        "key": "Hrydu82",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
+
 
