@@ -652,6 +652,12 @@
         "key": "Htueo101",
         "expirydate": "31-12-2026",
         "Allowoffline": true
+    },    
+    {
+        "device_id": "a2cb35972e93f34d",
+        "key": "Abnye102",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
     },
 ]
 
