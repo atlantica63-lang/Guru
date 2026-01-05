@@ -527,5 +527,11 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "da1d964922f2c22d",
+        "key": "Arwpd81",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
