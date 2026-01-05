@@ -587,6 +587,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5d027d7863901824",
+        "key": "Aknre91",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
