@@ -443,5 +443,17 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+        {
+        "device_id": "f5f68fc47d7a07ac",
+        "key": "Bdken68",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+        {
+        "device_id": "17fe715cb882ed99",
+        "key": "Aqwrd69",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
