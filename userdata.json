@@ -845,6 +845,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "46d2521c562edbc9",
+        "key": "Bpoti131",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
