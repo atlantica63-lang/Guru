@@ -749,6 +749,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "10c5d73a845a2cfc",
+        "key": "Hrrpl118",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
