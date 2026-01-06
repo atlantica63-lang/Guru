@@ -743,6 +743,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7c8e2ca490d6652f",
+        "key": "Aptcv117",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
