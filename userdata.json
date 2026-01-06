@@ -899,6 +899,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1fb9d5617a223384",
+        "key": "Bsslo140",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "597484dade8b7a0f",
+        "key": "Bghht141",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
