@@ -851,6 +851,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1d36541aac0fe72a",
+        "key": "Blghj132",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
