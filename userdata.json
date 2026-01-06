@@ -755,6 +755,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "8f077ef249d10e8d",
+        "key": "Aina223",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
