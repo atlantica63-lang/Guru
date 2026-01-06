@@ -779,6 +779,30 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d890b8e24713a448",
+        "key": "Bkklr121",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "50fc90da79da2e9d",
+        "key": "Bterf122",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "15e8d8404220bcb1",
+        "key": "Bprew123",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "6dfd62322dd076df",
+        "key": "Hubpb124",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
