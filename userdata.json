@@ -917,6 +917,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "02593ce879edf26e",
+        "key": "Hqpdb143",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
