@@ -863,6 +863,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+     {
+        "device_id": "5f45dee690878d6d",
+        "key": "Hlmnh134",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
