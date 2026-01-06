@@ -881,6 +881,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ed600c607d30b204",
+        "key": "Bwwlk137",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
