@@ -773,6 +773,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c2c117003e7c92a8",
+        "key": "Sumiyati837",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
