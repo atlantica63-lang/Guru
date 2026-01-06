@@ -869,6 +869,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b261c70e62a887c8",
+        "key": "Hddtp135",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f1d734729c8fbb26",
+        "key": "Hxxlo136",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
