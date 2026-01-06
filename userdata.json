@@ -833,6 +833,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "4f7648a3c07bc8f2",
+        "key": "Bqlkj130",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
 
 
