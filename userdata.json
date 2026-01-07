@@ -965,6 +965,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e8606f40f7dod79a",
+        "key": "Hccfg149",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
