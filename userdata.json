@@ -1037,6 +1037,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7d32791ac09f0b52",
+        "key": "Asri974",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
