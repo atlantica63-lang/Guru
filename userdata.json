@@ -1103,6 +1103,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5dff4f009d5fed06",
+        "key": "Bsker170",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
