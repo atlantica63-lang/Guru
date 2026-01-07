@@ -941,6 +941,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c97eb6bb7cf404e1",
+        "key": "Dendri076",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
