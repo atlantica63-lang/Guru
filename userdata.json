@@ -1031,6 +1031,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "da412b7f9ed2991b",
+        "key": "Nxxpr160",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
