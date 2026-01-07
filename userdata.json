@@ -1127,6 +1127,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e5fa6cdbab6b2ad1",
+        "key": "Brghp174",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
