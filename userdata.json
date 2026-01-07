@@ -1079,6 +1079,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "8dc8e540ea5296a2",
+        "key": "Hpeks166",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
