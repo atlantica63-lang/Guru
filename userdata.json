@@ -1067,6 +1067,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5772d4fe56220d96",
+        "key": "Hnmgk164",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e3f2e8bea1de1dc2",
+        "key": "Bmwgt165",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
