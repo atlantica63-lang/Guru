@@ -1097,6 +1097,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e0bc0e26ab01fd6d",
+        "key": "Bldkl169",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
