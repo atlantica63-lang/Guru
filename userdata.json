@@ -1085,6 +1085,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "be02ddb970b73030",
+        "key": "Hwmvv167",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
