@@ -1121,6 +1121,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1e73790b422e7e16",
+        "key": "Hjywr173",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
