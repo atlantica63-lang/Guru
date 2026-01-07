@@ -1115,6 +1115,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "12eeb0c336670881",
+        "key": "Bepas172",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
