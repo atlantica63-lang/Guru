@@ -959,6 +959,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d917dc650302ebf2",
+        "key": "Nova105",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
