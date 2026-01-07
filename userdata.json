@@ -1001,7 +1001,36 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-    
+    {
+        "device_id": "7715b2454efcf0ca",
+        "key": "Blejd155",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "bc54f5071370056e",
+        "key": "Bpekd156",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8a090d177d10d28b",
+        "key": "Boeuf157",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b6014201a25ae4c2",
+        "key": "Bpeoo158",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "187a02a57a6c6593",
+        "key": "Boeie159",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
