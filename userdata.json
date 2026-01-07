@@ -1049,6 +1049,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2f85f2fae28df6e1",
+        "key": "Ari242",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
