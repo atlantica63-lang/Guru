@@ -1043,6 +1043,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b86485435fc1c28d",
+        "key": "Aljrh161",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
