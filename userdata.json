@@ -1223,6 +1223,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1a5ac9fd3d429b2c",
+        "key": "Bpeks190",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
