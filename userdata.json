@@ -1193,6 +1193,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3a2a6346fa712ce8",
+        "key": "Ita185",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
