@@ -1211,6 +1211,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a829d8cd0f9c03ba",
+        "key": "Bdslw188",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
