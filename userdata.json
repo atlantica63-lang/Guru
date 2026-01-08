@@ -1199,6 +1199,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7a78a77d29ebe383",
+        "key": "Bkesc186",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
