@@ -1205,6 +1205,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "850e25b93c4381ac",
+        "key": "Bpwaa187",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
