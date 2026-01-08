@@ -1175,6 +1175,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "4f2a5cdecd4df820",
+        "key": "Bssal182",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
