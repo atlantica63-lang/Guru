@@ -1181,6 +1181,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c50847a528bde298",
+        "key": "Hrowq183",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d7f61283a2cf1ed",
+        "key": "Hwwde184",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
