@@ -1169,6 +1169,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3f14fa3f77ca5945",
+        "key": "Bvlwv181",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
