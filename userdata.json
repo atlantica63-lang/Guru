@@ -1163,6 +1163,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "bbd24ae8d839344e",
+        "key": "Rgsje180",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
