@@ -1235,6 +1235,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "8cf9cfc6eee37d4d",
+        "key": "Bpeii192",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
