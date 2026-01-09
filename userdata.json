@@ -1337,6 +1337,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "5e3266e6396b4753",
+        "key": "Btllt206",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
