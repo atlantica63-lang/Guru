@@ -1283,6 +1283,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "439ff5f724a5c0ff",
+        "key": "Bllsd199",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
