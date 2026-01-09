@@ -1319,6 +1319,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "50ff54b0cbb8d231",
+        "key": "Bpllo203",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
