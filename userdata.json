@@ -1295,6 +1295,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "cbc7d6a0211295af",
+        "key": "Bogww201",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
