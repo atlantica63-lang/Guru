@@ -1229,6 +1229,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c33f767b6d7b551e",
+        "key": "Hlrpp191",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
