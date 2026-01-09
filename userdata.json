@@ -1260,8 +1260,14 @@
         "Allowoffline": true
     },
     {
+        "device_id": "4e5872d0c4eb445a",
+        "key": "Bkwwl196",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "",
-        "key": "Bkwwl195",
+        "key": "",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
