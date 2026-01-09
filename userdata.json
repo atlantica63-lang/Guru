@@ -1289,6 +1289,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "cfdbf61d53808176",
+        "key": "Bigee200",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
