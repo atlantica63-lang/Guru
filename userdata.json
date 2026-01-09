@@ -1325,6 +1325,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "efcbf9c756bc75a9",
+        "key": "Btrrt204",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "745048092dcd7ac9",
+        "key": "Bwrpq205",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
