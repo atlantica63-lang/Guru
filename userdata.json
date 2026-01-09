@@ -1266,6 +1266,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "456d1e4fc04b47b7",
+        "key": "Hdsbr197",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "",
         "key": "",
         "expirydate": "31-12-2026",
