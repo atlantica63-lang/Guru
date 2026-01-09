@@ -1301,6 +1301,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ebdd3bb5a930273c",
+        "key": "Hxnsn202",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
