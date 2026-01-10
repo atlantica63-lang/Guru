@@ -1373,6 +1373,24 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "069d957fc136f14c",
+        "key": "Hheke212",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "97add897a191fe14",
+        "key": "Hlepe213",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e18a60bfe16accde",
+        "key": "Hleel214",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
