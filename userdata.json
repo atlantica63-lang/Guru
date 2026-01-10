@@ -1343,6 +1343,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "10685c6f389db0e5",
+        "key": "Brkpp207",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "97c2bb605fc03010",
+        "key": "Booww208",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
