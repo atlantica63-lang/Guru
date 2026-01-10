@@ -1355,6 +1355,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "82f3103c0ae72ebe",
+        "key": "Beert209",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "4955f59a9a26fd61",
+        "key": "Bkeww210",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
