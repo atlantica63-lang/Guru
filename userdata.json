@@ -1403,6 +1403,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d74a3cb502a72047",
+        "key": "Bettl217",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
