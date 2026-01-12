@@ -1445,6 +1445,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ef35ad8db03c6474",
+        "key": "Vfpew224",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
