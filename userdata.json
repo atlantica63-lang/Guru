@@ -1433,6 +1433,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a61523c3803311fe",
+        "key": "Hkewp222",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "3b958d6086f64ca6",
+        "key": "Hpeil223",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
