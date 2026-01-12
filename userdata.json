@@ -1397,6 +1397,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "06bf9618dc120767",
+        "key": "Bpfpp216",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
