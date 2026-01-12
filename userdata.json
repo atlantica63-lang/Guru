@@ -1451,6 +1451,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "418b1922395dfba9",
+        "key": "Aelep225",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
