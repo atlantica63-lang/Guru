@@ -1427,6 +1427,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e45576f4c5cb42ed",
+        "key": "Begpg221",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
