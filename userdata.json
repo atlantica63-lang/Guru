@@ -1481,6 +1481,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "66dba619ba22a7e6",
+        "key": "Bddle230",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
