@@ -1493,6 +1493,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "2afa7a831e418a82",
+        "key": "Apgjf232",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
