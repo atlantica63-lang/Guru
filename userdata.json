@@ -1505,6 +1505,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "6418e60975fe76b6",
+        "key": "Bfpfl234",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
