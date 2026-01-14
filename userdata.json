@@ -1499,6 +1499,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "31b796c443bc8c52",
+        "key": "Alpwn233",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
