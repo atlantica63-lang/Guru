@@ -1523,6 +1523,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7c5ff9740443a031",
+        "key": "Hprrt237",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
