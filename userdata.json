@@ -1535,6 +1535,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0ef0b5ae9acc0009",
+        "key": "Bfpwa239",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]   
 
 
