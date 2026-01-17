@@ -1546,6 +1546,12 @@
         "key": "Hgpeq240",
         "expirydate": "31-12-2026",
         "Allowoffline": true
+    },    
+    {
+        "device_id": "e0a441109a250082",
+        "key": "Hepfe241",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
     },
 ]   
 
