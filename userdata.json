@@ -1583,6 +1583,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a587bf2a5a5c68c2",
+        "key": "Agrfh247",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5fd1ef0b0246eb5e",
+        "key": "Hbeor248",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
