@@ -1577,6 +1577,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e7ad72e4376200e6",
+        "key": "Avmre246",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
