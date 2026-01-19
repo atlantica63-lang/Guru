@@ -1595,6 +1595,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a899b13a1c55e6d0",
+        "key": "Anrbc249",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
