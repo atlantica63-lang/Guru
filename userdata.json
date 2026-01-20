@@ -1607,6 +1607,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a077a8ad19fae8d1",
+        "key": "Hvpra251",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
