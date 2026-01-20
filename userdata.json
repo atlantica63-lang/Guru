@@ -1601,6 +1601,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e6cae07af855178f",
+        "key": "Beoyd250",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
