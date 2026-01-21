@@ -1613,6 +1613,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7ef6b09db7a766bd",
+        "key": "Bkenw252",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
