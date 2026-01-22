@@ -1631,6 +1631,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "6b74c37029b3bf64",
+        "key": "Aknrb255",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
