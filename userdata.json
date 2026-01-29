@@ -1637,6 +1637,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "438ab9e628773484",
+        "key": "Hrowh256",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]     
 
 
