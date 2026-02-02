@@ -1643,6 +1643,19 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "9b5b3da3ba0cd4e1",
+        "key": "Hfene257",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "90f541b2c21d177d",
+        "key": "Hgrrn258",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    
 ]     
 
 
