@@ -1655,6 +1655,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b179ec5924c184ae",
+        "key": "Hbrje259",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
