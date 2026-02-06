@@ -1661,6 +1661,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "84ba46ddc2b3c7a6",
+        "key": "Amnrw260",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
