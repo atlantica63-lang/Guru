@@ -1667,6 +1667,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3b003159a1e28734",
+        "key": "Bcneb261",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },    
+    {
+        "device_id": "",
+        "key": "",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
