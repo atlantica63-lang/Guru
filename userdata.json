@@ -1679,6 +1679,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a20152063e15b771",
+        "key": "Homrn263",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
