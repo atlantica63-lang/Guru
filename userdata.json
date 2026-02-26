@@ -1691,6 +1691,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ae7836522d6cc207",
+        "key": "Aajlf265",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
