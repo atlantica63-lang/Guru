@@ -1685,6 +1685,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d25c7683ddf8dc1f",
+        "key": "Hmfbe264",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
