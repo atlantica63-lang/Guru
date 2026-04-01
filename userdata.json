@@ -1703,6 +1703,18 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d81312d829d0fedd",
+        "key": "Abwas267",
+        "expirydate": "01-04-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a45623e65e7215d4",
+        "key": "Aywgs268",
+        "expirydate": "01-04-2027",
+        "Allowoffline": true
+    },
     
 ]     
 
