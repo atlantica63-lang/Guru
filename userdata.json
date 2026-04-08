@@ -1715,6 +1715,12 @@
         "expirydate": "01-04-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "adc87c5b091104f9",
+        "key": "Hevaw269",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
