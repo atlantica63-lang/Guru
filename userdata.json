@@ -1721,6 +1721,12 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "074ec7812fd7eba0",
+        "key": "Bhfwk270",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
     
 ]     
 
