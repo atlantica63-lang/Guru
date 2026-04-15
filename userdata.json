@@ -1718,13 +1718,19 @@
     {
         "device_id": "adc87c5b091104f9",
         "key": "Hevaw269",
-        "expirydate": "31-12-2026",
+        "expirydate": "15-04-2027",
         "Allowoffline": true
     },
     {
         "device_id": "074ec7812fd7eba0",
         "key": "Bhfwk270",
-        "expirydate": "31-12-2026",
+        "expirydate": "15-04-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "551aad0d22809319",
+        "key": "Blwan271",
+        "expirydate": "15-04-2027",
         "Allowoffline": true
     },
     
