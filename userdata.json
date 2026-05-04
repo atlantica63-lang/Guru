@@ -1745,7 +1745,12 @@
         "expirydate": "30-04-2027",
         "Allowoffline": true
     },
-    
+    {
+        "device_id": "01a7d46ba1de07c9",
+        "key": "Hndse279",
+        "expirydate": "05-05-2027",
+        "Allowoffline": true
+    },
 ]     
 
 
