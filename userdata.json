@@ -1757,6 +1757,12 @@
         "expirydate": "31-12-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "cb84f6a3cd8bb4fc",
+        "key": "Hhlpe224",
+        "expirydate": "11-05-2027",
+        "Allowoffline": true
+    },
 ]     
 
 
