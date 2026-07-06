@@ -1769,6 +1769,12 @@
         "expirydate": " 02-07-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "84b0c14c4aacfae1",
+        "key": "Hncdp226",
+        "expirydate": "06-07-2027",
+        "Allowoffline": true
+    },
 ]     
 
 
